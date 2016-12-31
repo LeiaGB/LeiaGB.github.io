@@ -1,0 +1,28 @@
+html{
+    background-image: url("http://wallpaper-gallery.net/images/landscape-wallpapers/landscape-wallpapers-20.jpg");
+}
+
+img {
+    width: 200px;
+}
+body {
+    text-align: center;
+    font-family: "Arial";
+}
+h1{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/2c/35/9a/2c359a66245e0260446ad2ee3c3866b8.jpg");
+    border-style: groove
+    
+}
+p {
+    border-style: double;
+    color:white;
+    border-color: #FFFFFF;
+     background-image: url("https://s-media-cache-ak0.pinimg.com/736x/2c/35/9a/2c359a66245e0260446ad2ee3c3866b8.jpg");
+    
+}
+style{
+    display-align: center;
+}
+
+    
